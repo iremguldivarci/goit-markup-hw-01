@@ -1,0 +1,49 @@
+h1 {
+    color: seagreen;
+    background-color: rgba(143, 188, 143, 0.5);
+    font-family: "Georgia", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: oblique;
+    text-transform: none;
+}
+p {
+    color: coral;
+}
+h2 {
+    color: mediumslateblue;
+}
+a {
+    color: indianred;
+}  
+h3 {
+    color: mediumaquamarine;
+}
+li {
+    color: mediumaquamarine;
+}
+button {
+    color: rgb(87, 87, 204);
+    background-color: lavender;
+}
+header {
+    background-color: cornsilk;
+}
+main {
+    background-color: peachpuff;
+}
+footer {
+    background-color: rgb(190, 200, 180);
+}
+
+.list {
+    color: brown;
+}
+
+.list:hover {
+    color: tomato;
+}
+
+body {
+    font-family: "Yellowtail", static;
+}
